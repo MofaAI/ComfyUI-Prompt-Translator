@@ -13,7 +13,7 @@ git clone https://github.com/MofaAI/ComfyUI-Prompt-Translator.git
 ```
 pip install -U huggingface_hub hf_transfer
 export HF_ENDPOINT=https://hf-mirror.com
-huggingface-cli download --resume-download huggingface-cli download --resume-download
+huggingface-cli download --resume-download facebook/mbart-large-50-many-to-many-mmt
 ```
 
 ## 使用效果
