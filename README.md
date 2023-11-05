@@ -17,6 +17,6 @@ huggingface-cli download --resume-download huggingface-cli download --resume-dow
 ```
 
 ## 使用效果
-![使用效果](ui.png)
+![使用效果](ui.jpg)
 
 
